@@ -21,7 +21,7 @@
     <PackageTags>extentreports extent reporting actinium</PackageTags>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageReleaseNotes>Fixed a JS error</PackageReleaseNotes>
-    <PackageId>ExtentReportsACTinium</PackageId>
+    <PackageId>ExtentReports.ACTinium</PackageId>
     <Product>ExtentReportsACTinium</Product>
   </PropertyGroup>
 
